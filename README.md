@@ -1,53 +1,53 @@
 # E-Commerce Back End README.md
-  |[GitHub License](https://img.shield.io/badge/ISC=blue)
 
-  ## Description
+|[GitHub License](https://img.shield.io/badge/ISC=blue)
 
-  This project was created in order to allow viewing, creation, updating, and deleting of content on an e-commerce website. 
+## Description
 
-  ## Table of Contents
+This project was created in order to allow viewing, creation, updating, and deleting of content on an e-commerce website.
 
-  - [Installation](#installation)
+## Table of Contents
 
-  - [Usage](#usage)
+- [Installation](#installation)
 
-  - [Licensing](#license)
+- [Usage](#usage)
 
-  - [Contribution](#contribution)
+- [Licensing](#license)
 
-  - [Tests](#testing)
+- [Contribution](#contribution)
 
-  - [Questions](#questions)
+- [Tests](#testing)
 
-  ## Installation
+- [Questions](#questions)
 
-  To install necessary dependencies, run the following command:
+## Installation
 
-  npm i
+To install necessary dependencies, run the following command:
 
-  ## Usage
+npm i
 
-  This project can be used to understand the nature of api routes, models, and seeds for the e-commerce data. Please view below video link to see a practical demonstration:
+## Usage
 
-  https://drive.google.com/file/d/1TJzAnNpboVC68ne0IYEq6oorHOsuAlS7/view
+This project can be used to understand the nature of api routes, models, and seeds for the e-commerce data. Please view below video link to see a practical demonstration:
 
-  ## Licensing
+https://drive.google.com/file/d/1HEDwExot7EB58DffLZXJbmxOyqHrvVAc/view
 
-  This project is licensed under the ISC license. [![GitHub License](https://img.shields.io/badge/license-ISC-blue.svg)
-  This license link for this project is https://opensource.org/license/ISC/
+## Licensing
 
-  ## Contributing
+This project is licensed under the ISC license. [![GitHub License](https://img.shields.io/badge/license-ISC-blue.svg)
+This license link for this project is https://opensource.org/license/ISC/
 
-  No contribution necessary at this time.
+## Contributing
 
-  ## Tests
+No contribution necessary at this time.
 
-  To run tests, run the following command:
+## Tests
 
-  N/A
+To run tests, run the following command:
 
-  ## Questions
+N/A
 
-  If you have any questions about this repository, feel free to open an issue or contact me directly at nfailor@gmail.com.
-  You can find more of my work at https://github.com/nfailor
+## Questions
 
+If you have any questions about this repository, feel free to open an issue or contact me directly at nfailor@gmail.com.
+You can find more of my work at https://github.com/nfailor
